@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is [Your Name], and I'm on a journey to learn Python and transition into the world of programming. I'm a highly determined and ambitious individual, and I'm always up for a challenge. For me, programming represents an exciting opportunity to grow and expand my skills. 🚀
+My name is Dominika, and I'm on a journey to learn Python and transition into the world of programming. I'm a highly determined and ambitious individual, and I'm always up for a challenge. For me, programming represents an exciting opportunity to grow and expand my skills. 🚀
 
 ## 🌟 About Me
 
